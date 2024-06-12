@@ -43,3 +43,7 @@ Was pretty simple..
 
 Just opened a substitution cipher decoder [(this)](https://www.dcode.fr/monoalphabetic-substitution)
 
+Gave the input and got the key.
+
+Key: ***picoCTF{FR3QU3NCY_4774CK5_4R3_C001_4871E6FB}***
+
