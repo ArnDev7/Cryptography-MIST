@@ -31,6 +31,8 @@ Took a lot of time to find the best decoding platform to solve this particular p
 
 used `https://tholman.com/other/transposition/`. *I put the key length 3, as mentioned. Then rearranged the third column to get the key*
 
+![Screenshot 2024-06-12 at 4 41 19 PM](https://github.com/ArnDev7/Cryptography-MIST/assets/148140634/5ad0f986-31a8-4c0a-aeac-ba4ffabf52ab)
+
 Key: ***picoCTF{7R4N5P051N6_15_3XP3N51V3_A9AFB178}***
 
 ---
