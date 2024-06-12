@@ -29,7 +29,7 @@ Referred to [this](https://www.youtube.com/watch?v=sHsnH1u03e4) for knowledge
 
 Took a lot of time to find the best decoding platform to solve this particular problem
 
-used `https://tholman.com/other/transposition/` to get the key. *(I put the key length 3, as mentioned)*
+used `https://tholman.com/other/transposition/`. *I put the key length 3, as mentioned. Then rearranged the third column to get the key*
 
 Key: ***picoCTF{7R4N5P051N6_15_3XP3N51V3_A9AFB178}***
 
