@@ -59,4 +59,4 @@ Opened a RSA decoder and input the values to get the key. [(decoder link)](https
 
 Key: ***picoCTF{proving_wiener_6907362}***
 
-**(No use of the image)**
+**(No use of the cute dog image)**
