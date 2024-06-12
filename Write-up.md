@@ -26,3 +26,13 @@ Key: *picoCTF{n33d_a_lArg3r_e_ccaa7776}*
 Referred to [this](https://www.youtube.com/watch?v=sHsnH1u03e4) for knowledge
 
 **(While looking to decode, I got to know about the different types of ciphers [here](https://www.boxentriq.com/code-breaking/cipher-identifier#unknown-format))**
+
+Took a lot of time to find the best decoding platform to solve this particular problem
+
+used `https://tholman.com/other/transposition/` to get the key. *(I put the key length 3, as mentioned)*
+
+Key: ***picoCTF{7R4N5P051N6_15_3XP3N51V3_A9AFB178}***
+
+---
+
+##
