@@ -25,4 +25,4 @@ Key: *picoCTF{n33d_a_lArg3r_e_ccaa7776}*
 
 Referred to [this](https://www.youtube.com/watch?v=sHsnH1u03e4) for knowledge
 
-(While looking to decode, I got to know about the different types of ciphers [here](https://www.boxentriq.com/code-breaking/cipher-identifier#unknown-format))
+**(While looking to decode, I got to know about the different types of ciphers [here](https://www.boxentriq.com/code-breaking/cipher-identifier#unknown-format))**
