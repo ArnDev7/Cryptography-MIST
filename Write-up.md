@@ -21,7 +21,7 @@ Key: ***picoCTF{n33d_a_lArg3r_e_ccaa7776}***
 
 ---
 
-##transposition-trial
+## transposition-trial
 
 Referred to [this](https://www.youtube.com/watch?v=sHsnH1u03e4) for knowledge
 
