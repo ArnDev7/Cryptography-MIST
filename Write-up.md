@@ -47,3 +47,15 @@ Gave the input and got the key.
 
 Key: ***picoCTF{FR3QU3NCY_4774CK5_4R3_C001_4871E6FB}***
 
+---
+
+## Dachshund Attacks
+
+*Opened terminal to log in the picoCTF server*
+
+Got the `e`, `n`, `c` values.
+
+Opened a RSA decoder and input the values to get the key. [(decoder link)](https://www.dcode.fr/rsa-cipher)
+
+Key: ***picoCTF{proving_wiener_6907362}***
+
