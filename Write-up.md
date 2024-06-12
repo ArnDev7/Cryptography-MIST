@@ -41,5 +41,5 @@ Key: ***picoCTF{7R4N5P051N6_15_3XP3N51V3_A9AFB178}***
 
 Was pretty simple..
 
-Just opened a substitution cipher decoder ([this])(https://www.dcode.fr/monoalphabetic-substitution)
+Just opened a substitution cipher decoder [(this)](https://www.dcode.fr/monoalphabetic-substitution)
 
