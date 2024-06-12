@@ -17,3 +17,4 @@ Key: *picoCTF{F1AG5AND5TUFF}*
  
 ![Screenshot 2024-06-12 at 11 28 21 AM](https://github.com/ArnDev7/Cryptography-MIST/assets/148140634/8a7052f3-c667-4e37-be74-259c72264027)
 
+Key: *picoCTF{n33d_a_lArg3r_e_ccaa7776}*
